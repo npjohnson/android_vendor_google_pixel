@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- List of packages for which we don't want to show recents onboarding, add into overlay as needed. -->
+    <string-array name="recents_onboarding_blacklisted_packages" translatable="false">
+        <item>com.google.android.setupwizard</item>
+    </string-array>
+</resources>

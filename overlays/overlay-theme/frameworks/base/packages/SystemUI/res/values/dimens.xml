@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <dimen name="fingerprint_dialog_corner_size">8dp</dimen>
+     <dimen name="multi_user_switch_keyguard_margin">7dp</dimen>
+</resources>
