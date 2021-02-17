@@ -1,0 +1,11 @@
+<resources>
+    <!-- SystemUI vender service, used in config_systemUIServiceComponents. -->
+    <string name="config_systemUIVendorServiceComponent" translatable="false">com.google.android.systemui.GoogleServices</string>
+
+    <!-- SystemUIFactory component -->
+    <string name="config_systemUIFactoryComponent">com.google.android.systemui.SystemUIGoogleFactory</string>
+
+    <!-- Component to be used as the status bar service.  Must implement the IStatusBar
+     interface.  This name is in the ComponentName flattened format (package/class)  -->
+    <string name="config_statusBarComponent">com.google.android.systemui.statusbar.phone.StatusBarGoogle</string>
+</resources>

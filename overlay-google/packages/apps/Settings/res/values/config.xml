@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fully-qualified class name for the implementation of the FeatureFactory to be instantiated. -->
+    <string name="config_featureFactory">com.google.android.settings.overlay.FeatureFactoryImpl</string>
+</resources>
